@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 Screenshot of desktop solution.
 
-![](./screenshot-mobile.jpg)
+![](./screenshot-mobile.png)
 
 Screenshot of mobile solution.
 
